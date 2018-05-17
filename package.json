@@ -1,0 +1,23 @@
+{
+  "name": "trend_test",
+  "version": "1.0.0",
+  "description": "Test task implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Minikent/test_task.git"
+  },
+  "author": "minikent",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Minikent/test_task/issues"
+  },
+  "homepage": "https://github.com/Minikent/test_task#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^5.1.1"
+  }
+}

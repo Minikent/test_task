@@ -8,3 +8,7 @@ arrayCompress([1, 2, 3, 6, 7, 8], function(result) {
   console.log(result);
 });
 ```
+## Тест
+```
+npm test
+```
